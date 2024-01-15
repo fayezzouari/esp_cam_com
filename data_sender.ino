@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <esp32cam.h>
 
-const char *WIFI_SSID = "Ooredoo_S20_546D";
-const char *WIFI_PASS = "67DEB9F7";
+const char *WIFI_SSID = "YOUR_WIFI_SSID";
+const char *WIFI_PASS = "YOUR_WIFI_PASSWORD";
 
 WebServer server(80);
 
